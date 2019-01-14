@@ -1,2 +1,5 @@
-# moduleExample
-jdk11 modularized springboot2 + webflux
+# module
+jdk11 modularized springboot2
+
+# webflux
+reactive redis & mongoDb
